@@ -1,0 +1,10 @@
+Script started on Wed 09 Sep 2015 11:17:14 AM EDT
+[?1034h(1) thoth $ gcc lab1.c
+lab1.c: In function ‘main’:
+lab1.c:8: error: expected ‘;’ before ‘return’
+(2) thoth $ ls
+lab1  lab1.c  typescript
+(3) thoth $ exit
+exit
+
+Script done on Wed 09 Sep 2015 11:18:53 AM EDT
